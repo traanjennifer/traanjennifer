@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Jennifer T. Tran
+# 👋 Hi, I'm Jennifer T. Tran!
 
 ## 🌟 About Me
 I'm a passionate learner and creative problem-solver currently pursuing my **Master's in Computing in Education** at **Teachers College Columbia University**. With a strong focus on **EdTech for inclusion** and **education in emergencies (EiE)**, I bring together technology, instructional design, and my commitment to social impact.
